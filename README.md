@@ -4,4 +4,4 @@
 2. Возраст: 25
 3. Интересы: Котики
 
-<img src="Cat.jpg" alt="My Kitty"
+![Getting Started](Cat.jpg)
